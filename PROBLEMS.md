@@ -2,16 +2,16 @@
 
 ### Section 1: Introduction, Variables & Operators (001-050)
 
-- [ ] 1. **[Theory]** How is Python code executed? Explain Interpreted vs Compiled.
-- [ ] 2. **[Theory]** What is the Python Global Interpreter Lock (GIL)?
-- [ ] 3. **[Theory]** Explain PEP 8 and why it matters.
-- [ ] 4. **[Theory]** What are Python's built-in immutable vs mutable data types?
-- [ ] 5. **[Practice]** Install Python 3.x and check the version via CLI.
-- [ ] 6. **[Practice]** Create a virtual environment using `venv`.
-- [ ] 7. **[Practice]** Activate and deactivate the virtual environment.
-- [ ] 8. **[Practice]** Write a script that behaves differently when run directly vs imported (`if __name__ == "__main__":`).
-- [ ] 9. **[Practice]** Swap two variables without using a temporary variable.
-- [ ] 10. **[Theory]** What is dynamic typing in Python?
+- [x] 1. **[Theory]** How is Python code executed? Explain Interpreted vs Compiled.
+- [x] 2. **[Theory]** What is the Python Global Interpreter Lock (GIL)?
+- [x] 3. **[Theory]** Explain PEP 8 and why it matters.
+- [x] 4. **[Theory]** What are Python's built-in immutable vs mutable data types?
+- [x] 5. **[Practice]** Install Python 3.x and check the version via CLI.
+- [x] 6. **[Practice]** Create a virtual environment using `venv`.
+- [x] 7. **[Practice]** Activate and deactivate the virtual environment.
+- [x] 8. **[Practice]** Write a script that behaves differently when run directly vs imported (`if __name__ == "__main__":`).
+- [x] 9. **[Practice]** Swap two variables without using a temporary variable.
+- [x] 10. **[Theory]** What is dynamic typing in Python?
 - [ ] 11. **[Practice]** Use `type()` and `isinstance()` to check variable types.
 - [ ] 12. **[Practice]** Demonstrate integer overflow (or lack thereof) in Python.
 - [ ] 13. **[Theory]** Explain the difference between `is` and `==`.
